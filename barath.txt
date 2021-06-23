@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - CHENNAI  || 23 Jun 2021 | 06:15:37 PM
+-------------------------------------------------------------
+temperature is: 30.54 deg C
+weather  : haze
+humdidity      : 81 %
+speed of the wind   : 2.24 kmph
